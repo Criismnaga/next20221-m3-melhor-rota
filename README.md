@@ -1,4 +1,6 @@
-# next20221-m3-melhor-rota
+## next20221-m3-melhor-rota
+
+Esse projeto é a resolução do desafio o módulo de experiência realizado após a conclusão do Curso NExt - Nova experiência de trabalho promovido pelo Cesar.
 
 ## NExT 2022.1 - Desafio: A melhor rota
 
@@ -40,6 +42,4 @@ Mentor
 
 - Dennis Dantas
 
-## Agradecimentos
   
-O desafio foi proposto pelo como projeto de conclusão do Curso NExt - Nova experiência de trabalho promovido pelo Cesar.
